@@ -8,6 +8,6 @@ Its a simple react application showing lifecycles in react an the flow from Moun
 
 Available script to start the application
 
-### `By`
+#### `By`
 
 Jeff Njogu
